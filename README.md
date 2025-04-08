@@ -6,10 +6,6 @@
 
 - [hare-compress](https://git.sr.ht/~sircmpwn/hare-compress)
 
-## License
-
-This inherits the ISC license from the original code. See the LICENSE file.
-
 ## Contributing
 
 Create a branch that begins with `contrib/` and push to the
